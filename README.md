@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ritesh Ghosh
 - 👀 I’m interested in Web Development & Machine Learning 
-- 🌱 I’m currently learning MongoDB of MERN stack
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate with maybe someone. 
 - 📫 Reach me through Twitter. 
 

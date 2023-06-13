@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ritesh Ghosh
+## 👋 Hi, I’m Ritesh Ghosh
 - 👀 I’m interested in Web Development & Machine Learning !
 - 🌱 I’m currently learning React
 - Email: ghoshritesh55@gmail.com

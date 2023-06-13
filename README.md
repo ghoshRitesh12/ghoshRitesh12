@@ -25,9 +25,18 @@
 
 - Deployment Platforms:
   > ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-      
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghoshRitesh12&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshRitesh12&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TuhinBar&show_icons=true&locale=en&layout=compact&theme=gotham" />
+    
+  </tr>
+</table>
+<p>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"/>
+</p>
 

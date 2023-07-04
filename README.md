@@ -1,7 +1,21 @@
-## 👋 Hi, I’m Ritesh Ghosh
-- 👀 I’m interested in Web Development & Machine Learning !
-- 🌱 I’m currently learning React
-- Email: ghoshritesh55@gmail.com
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=00e1ff&height=120&section=header"
+  width=100% decoding="async" fetchpriority="high"
+/>
+
+
+<h1 align="center">
+  Hey, I’m Ritesh 👋
+</h1>
+
+<p align="center">
+  👀 I’m interested in Web Development & Machine Learning!
+  <br/>
+  🌱 I’m currently learning React
+</p>
+
+<p align="center">
+</p>
 
 
 ## Socials :
@@ -40,3 +54,9 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"/>
 </p>
 
+
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=00e1ff&height=120&section=footer"
+  width=100% decoding="async" fetchpriority="high"
+/>

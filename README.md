@@ -14,9 +14,6 @@
   🌱 I’m currently learning React
 </p>
 
-<p align="center">
-</p>
-
 ## Socials : 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritesh-ghosh-69b368249/)   [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ritesh_5l) 
 
@@ -37,18 +34,18 @@
 - Deployment Platforms:
   > ![languages](https://skillicons.dev/icons?i=vercel,netlify,railways,render)
 
-<table style="border: none;">
+<table style="border: none;" align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"/>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshRitesh12&show_icons=true&locale=en&layout=compact&theme=dracula" />
-    
+    </td>
   </tr>
 </table>
-<p>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"/>
+<p align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"/>
 </p>
 
 

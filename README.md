@@ -15,7 +15,8 @@
 </p>
 
 ## Socials : 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritesh-ghosh-69b368249/)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ritesh_5l) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritesh-ghosh-69b368249/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ritesh_5l) 
 
 ## Tools & Skills :
 

@@ -4,6 +4,7 @@
 />
 
 
+
 <h1 align="center">
   Hey, I’m Ritesh 👋
 </h1>
@@ -35,19 +36,25 @@
 - Deployment Platforms:
   > ![languages](https://skillicons.dev/icons?i=vercel,netlify,railways,render)
 
-<table style="border: none;" align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshRitesh12&show_icons=true&locale=en&layout=compact&theme=dracula" />
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"/>
-</p>
+<div align="center" width=100%>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"
+      decoding="async" fetchpriority="high"
+    />
+    <img 
+      style="display: inline-block; margin-left: 100px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshRitesh12&show_icons=true&locale=en&layout=compact&theme=dracula" 
+      decoding="async" fetchpriority="high"
+    />
+</div>
+
+<div align="center">
+  <img 
+    align="center" 
+    src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"
+    decoding="async" fetchpriority="high"
+  />
+</div>
 
 
 

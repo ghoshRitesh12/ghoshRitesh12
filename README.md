@@ -12,7 +12,7 @@
 <p align="center">
   👀 I’m interested in Web Development & Machine Learning!
   <br/>
-  🌱 I’m currently learning React
+  🌱 I’m currently learning TypeScript & React
 </p>
 
 ## Socials : 

@@ -22,7 +22,7 @@
 ## Tools & Skills :
 
 - Languages :
-  > ![languages](https://skillicons.dev/icons?i=js,java,python,c,bash,sass,css)
+  > ![languages](https://skillicons.dev/icons?i=js,ts,java,python,c,bash,sass,css)
 
 - IDEs :
   > ![ides](https://skillicons.dev/icons?i=vscode,idea)

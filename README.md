@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  Hey, I’m Ritesh 👋
+  Hey there, I’m Ritesh 👋
 </h1>
 
 <p align="center">

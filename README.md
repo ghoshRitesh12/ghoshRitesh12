@@ -13,6 +13,8 @@
   👀 I’m interested in Web Development & Machine Learning!
   <br/>
   💻 I’m currently learning TypeScript & React.
+  <br/>
+  💡 Looking forward to collaborate on interesting ideas.
 </p>
 
 ## Socials : 

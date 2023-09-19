@@ -1,5 +1,5 @@
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=ff6992&height=120&section=header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=00afff&height=120&section=header"
   width=100% decoding="async" fetchpriority="high"
 />
 
@@ -62,6 +62,6 @@
 
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=ff6992&height=120&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=00afff&height=120&section=footer"
   width=100% decoding="async" fetchpriority="high"
 />

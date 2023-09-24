@@ -17,9 +17,8 @@
   💡 Looking forward to collaborate on interesting ideas
 </p>
 
-## Socials : 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ritesh-g)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/_riteshghosh) 
+## Socials :
+[LinkedIn](https://www.linkedin.com/in/ritesh-g) [Twitter](https://twitter.com/_riteshghosh)
 
 ## Tools & Skills :
 

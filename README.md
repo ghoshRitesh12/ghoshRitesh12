@@ -57,8 +57,10 @@
     src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"
   />
 </p>
+  
+<br/>
 
-
+[![An image of @ghoshritesh12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghoshritesh12)](https://holopin.io/@ghoshritesh12)
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=00afff&height=120&section=footer"

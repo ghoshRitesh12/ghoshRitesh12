@@ -3,7 +3,6 @@
   width=100% decoding="async" fetchpriority="high"
 />
 
- 
 
 <h1 align="center">
   Hey there, I’m Ritesh 👋
@@ -17,8 +16,9 @@
   💡 Looking forward to collaborate on interesting ideas
 </p>
 
-## Socials :
-[LinkedIn](https://www.linkedin.com/in/ritesh-g) [Twitter](https://twitter.com/_riteshghosh)
+## Socials : 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_riteshghosh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-g)
 
 ## Tools & Skills :
 

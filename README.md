@@ -3,7 +3,7 @@
   width=100% decoding="async" fetchpriority="high"
 />
 
-
+ 
 <h1 align="center">
   Hey there, I’m Ritesh 👋
 </h1>

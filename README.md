@@ -1,4 +1,4 @@
-# Hey there, I’m Ritesh 👋
+# Hey there, I’m Ritesh 👋 
 
 **👀 I’m interested in Web Development and Low level systems**
 <br/>

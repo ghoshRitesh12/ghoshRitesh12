@@ -5,7 +5,7 @@
 
 **🌱 I’m currently learning TypeScript and React**
 <br/>
-
+ 
 **💡 Looking forward to collaborate on interesting fullstack projects**
 
 ## 🌐 Socials: 

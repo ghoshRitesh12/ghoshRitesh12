@@ -39,5 +39,3 @@
 </p>
   
 <br/>
-
-[![An image of @ghoshritesh12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ghoshritesh12)](https://holopin.io/@ghoshritesh12)

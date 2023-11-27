@@ -3,7 +3,7 @@
 **👀 I’m interested in Web Development and Low level systems**
 <br/>
 
-**🌱 I’m currently learning TypeScript and React**
+**🌱 I’m currently learning TypeScript and Go**
 <br/>
  
 **💡 Looking forward to collaborate on interesting fullstack projects**

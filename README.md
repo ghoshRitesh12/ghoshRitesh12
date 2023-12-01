@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-g)
 
 ## 💻 Tech Stack:
-![techstack](https://skillicons.dev/icons?i=js,ts,java,c,bash,sass,css,html,vscode,idea,nodejs,expressjs,vuejs,react,nuxtjs,tailwind,mongodb,redis,docker,vercel,netlify,render,jwt,socketio)
+![techstack](https://skillicons.dev/icons?i=js,ts,java,c,go,bash,sass,css,html,vscode,idea,nodejs,expressjs,vuejs,react,nuxtjs,tailwind,mongodb,redis,docker,vercel,netlify,render,jwt,socketio)
 
 ## 📊 GitHub Stats: 
 

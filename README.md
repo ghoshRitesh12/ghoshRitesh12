@@ -6,7 +6,7 @@
 **🌱 I’m currently learning TypeScript and Go**
 <br/>
  
-**💡 Looking forward to collaborate on interesting fullstack projects**
+**💡 Looking forward to collaborate on interesting fullstack web projects**
 
 ## 🌐 Socials: 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_riteshghosh)

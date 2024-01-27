@@ -1,6 +1,6 @@
 # Hi there, I’m Ritesh 👋 
  
-**👀 I’m interested in Web Development and Low level systems**
+**👀 Full-Stack Developer & Low level systems piques my interest**
 <br/>
 
 **🌱 I’m currently learning TypeScript and Go**

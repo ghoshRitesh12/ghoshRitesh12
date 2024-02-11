@@ -3,7 +3,7 @@
 - 👀 I'm a self taught Full-Stack Developer
 - 📈 Low level systems piques my interest
 - 🌱 I’m currently learning TypeScript and Go 
-- 💡 Looking forward to collaborate on interesting fullstack & backend web projects
+- 💡 Looking forward to collaborate on interesting fullstack or backend web projects
 
 #### My Socials 🌐
 - [Twitter](https://twitter.com/_riteshghosh)

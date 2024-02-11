@@ -1,10 +1,14 @@
 ### Hi there, I’m Ritesh 👋 
  
-- 👀 I'm a self taught Full-Stack Developer Low level systems piques my interest
+- 👀 I'm a self taught Full-Stack Developer
 - 📈 Low level systems piques my interest
 - 🌱 I’m currently learning TypeScript and Go 
 - 💡 Looking forward to collaborate on interesting fullstack & backend web projects
 
+#### My Socials 🌐
+- [Twitter](https://twitter.com/_riteshghosh)
+- [LinkedIn](https://linkedin.com/in/ritesh-g)
+<!--
 ### 🌐 Socials: 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_riteshghosh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-g)
@@ -13,7 +17,6 @@
 ![techstack](https://skillicons.dev/icons?i=js,ts,java,c,go,bash,sass,css,html,vscode,idea,nodejs,expressjs,vuejs,react,nuxtjs,tailwind,mongodb,redis,docker,vercel,netlify,render,jwt,socketio)
 
 ### 📊 GitHub Stats: 
-
 <table style="border: none;" align="center">
   <tr>
     <td align="center">
@@ -36,3 +39,4 @@
 </p>
   
 <br/>
+-->

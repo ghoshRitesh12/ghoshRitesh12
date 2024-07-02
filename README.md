@@ -6,7 +6,7 @@
 - 💡 Looking forward to collaborate on interesting fullstack or backend web projects
 
 #### My Socials 🌐
-- [Twitter](https://twitter.com/_riteshghosh)
+- [X (Twitter)](https://x.com/__riteshg)
 - [LinkedIn](https://linkedin.com/in/ritesh-g)
 <!--
 ### 🌐 Socials: 

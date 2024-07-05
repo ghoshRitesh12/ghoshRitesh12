@@ -6,12 +6,12 @@
 - 💡 Looking forward to collaborate on interesting fullstack or backend web projects
 
 #### My Socials 🌐
-- [X (Twitter)](https://x.com/__riteshg)
+- [X (Twitter)](https://x.com/riteshgsh)
 - [LinkedIn](https://linkedin.com/in/riteshgsh)
 <!--
 ### 🌐 Socials: 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_riteshghosh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-g)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/riteshgsh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshgsh)
 
 ### 💻 Tech Stack:
 ![techstack](https://skillicons.dev/icons?i=js,ts,java,c,go,bash,sass,css,html,vscode,idea,nodejs,expressjs,vuejs,react,nuxtjs,tailwind,mongodb,redis,docker,vercel,netlify,render,jwt,socketio)

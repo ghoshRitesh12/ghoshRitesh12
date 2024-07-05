@@ -7,7 +7,7 @@
 
 #### My Socials 🌐
 - [X (Twitter)](https://x.com/__riteshg)
-- [LinkedIn](https://linkedin.com/in/ritesh-g)
+- [LinkedIn](https://linkedin.com/in/riteshgsh)
 <!--
 ### 🌐 Socials: 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_riteshghosh)

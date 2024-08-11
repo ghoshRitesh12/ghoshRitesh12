@@ -1,9 +1,8 @@
 ### Hi there, I’m Ritesh 👋 
  
-- 👀 I'm a self taught Full-Stack Developer
-- 📈 Low level systems piques my interest
-- 🌱 I’m currently learning TypeScript and Go 
-- 💡 Looking forward to collaborate on interesting fullstack or backend web projects
+- I'm a self taught Full-Stack Developer
+- Low level stuff piques my interest
+- I'm currently learning TypeScript and Go 
 
 #### My Socials 🌐
 - [X (Twitter)](https://x.com/riteshgsh)

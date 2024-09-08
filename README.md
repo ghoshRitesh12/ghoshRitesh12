@@ -1,7 +1,7 @@
 ### Hi there, I’m Ritesh 👋 
  
 - I'm a self taught Full-Stack Developer
-- Low level stuff piques my interest
+- I often like to peel back the curtain and see how low level stuff powers abstractions
 - I'm currently learning TypeScript and Go 
 
 #### My Socials 🌐

@@ -1,4 +1,4 @@
-### Hi there, I’m Ritesh 👋 
+### Hi there, I’m Ritesh
  
 - I'm a self taught Full-Stack Developer
 - I often like to peel back the curtain and see how low level stuff powers abstractions

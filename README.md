@@ -1,12 +1,16 @@
-### Hi there, I’m Ritesh
- 
+<h2 align="center">Hey there!</h2>
+
 - I'm a self taught Full-Stack Developer
 - I often like to peel back the curtain and see how low level stuff powers abstractions
 - I'm currently learning Go and other topics that interests me
+- Checkout my [portfolio](https://riteshgsh.vercel.app)
 
-#### My Socials 🌐
+<!--
+#### My Socials
 - [X (Twitter)](https://x.com/riteshgsh)
 - [LinkedIn](https://linkedin.com/in/riteshgsh)
+-->
+
 <!--
 ### 🌐 Socials: 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/riteshgsh)

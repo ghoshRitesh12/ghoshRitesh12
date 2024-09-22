@@ -24,12 +24,12 @@
   <tr>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dracula"
+        src="https://github-readme-stats.vercel.app/api?username=ghoshRitesh12&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=catppuccin_mocha"
       />
     </td>
     <td align="center">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshRitesh12&show_icons=true&locale=en&layout=compact&theme=dracula" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=ghoshRitesh12&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha" 
       />
     </td>
   </tr>
@@ -37,7 +37,7 @@
 <div align="center">
   <img 
     align="center" 
-    src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=dracula"
+    src="http://github-readme-streak-stats.herokuapp.com?user=ghoshRitesh12&theme=catppuccin_mocha"
   />
 </p>
   

@@ -3,7 +3,7 @@
 - I'm a self taught Full-Stack Developer
 - I often like to peel back the curtain and see how low level stuff powers abstractions
 - I'm currently learning Go and other topics that interests me
-- Checkout my [portfolio](https://riteshgsh.vercel.app)
+- Checkout my [portfolio](https://riteshgsh.me)
 
 <!--
 #### My Socials

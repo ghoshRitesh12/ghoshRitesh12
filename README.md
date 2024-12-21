@@ -1,9 +1,8 @@
 <h2 align="center">Hey there!</h2>
 
-- I'm a self taught Full-Stack Developer
+- I'm a self taught Full-Stack Developer, checkout my [portfolio](https://riteshgsh.me)
 - I often like to peel back the curtain and see how low level stuff powers abstractions
 - I'm currently learning Go and other topics that interests me
-- Checkout my [portfolio](https://riteshgsh.me)
 
 <!--
 #### My Socials
